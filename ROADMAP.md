@@ -59,7 +59,7 @@ Right now, auto-replies are based on keyword matching. The next step is context-
 
 ```
 [ ] AI-generated replies
-      Route ticket text through AI API
+      Route ticket text through an LLM API
       Reply is tailored to the specific issue, not a generic template
       Still includes ticket number and priority signal
 

@@ -83,7 +83,7 @@ ngrok tunnel  →  Next.js webhook endpoint (/api/webhooks/slack)
 | **ngrok** | Creates a public URL that tunnels to my local machine |
 | **GAM (Google Admin Manager)** | CLI tool to create/manage Google Workspace accounts |
 | **Gmail API** | Drafts and schedules welcome emails |
-| **AI AI** | Reads Slack channels, makes decisions, triggers actions |
+| **AI engine (LLM)** | Reads Slack channels, makes decisions, triggers actions |
 | **GitHub** | Stores all code and agent memory |
 
 ---
