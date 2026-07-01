@@ -5,14 +5,14 @@
 ```mermaid
 flowchart TD
     subgraph Slack["Slack (4 Workspaces)"]
-        S1[help-it-kerma]
-        S2[help-it-ngv]
-        S3[help-it-surt]
-        S4[help-it-trivelta]
-        N1[newhires-kerma]
-        N2[newhires-ngv]
-        N3[newhires-surt]
-        N4[newhires-trivelta]
+        S1[help-it-companya]
+        S2[help-it-companyb]
+        S3[help-it-companyc]
+        S4[help-it-companyd]
+        N1[newhires-companya]
+        N2[newhires-companyb]
+        N3[newhires-companyc]
+        N4[newhires-companyd]
     end
 
     subgraph Tunnel["Public Access"]
